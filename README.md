@@ -2,10 +2,9 @@
 This Python script extracts frames from a video file, resizes them, and saves every third frame as an image. It uses OpenCV to process the video and handle frame extraction, resizing, and displaying.
 
 # Requirements
-Python 3.x
-OpenCV (cv2 package)
-A video file (e.g., cr.mp4)
-To install the necessary Python package, run:
+1) Python 3.x
+2) OpenCV (cv2 package)
+3) A video file (e.g., cr.mp4)
 
 # Description
 This script performs the following tasks:
